@@ -1,0 +1,9 @@
+{
+    "URL": "http://joyreactor.cc/search/arknights",
+    "Prefix": "{CurrentId}",
+    "Class": "prettyPhotoLink",
+    "Tag": "a",
+    "UnderTag": "img",
+    "Content": "src",
+    "Path": "C:/Users/vdforever/Desktop/pich/"
+}

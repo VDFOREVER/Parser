@@ -1,0 +1,9 @@
+{
+    "URL": "http://anime.reactor.cc/tag/Kitsune+%28Anime%29",
+    "Prefix": "{CurrentId}",
+    "Class": "prettyPhotoLink",
+    "Tag": "a",
+    "UnderTag": "img",
+    "Content": "src",
+    "Path": "E:/pich/"
+}
